@@ -32,3 +32,36 @@
     <img src="https://github.com/BuiXuanHuy248/Food_menu/blob/01d76eb0a352149dc8e06b9b64f748284d6c3f41/Payment_method.png" alt="Payment Method" style="width: 200px; height: auto;">
 </div>
 
+## Hướng dẫn sử dụng
+### 1. **Xem thực đơn của nhà hàng**
+   - Khi mở ứng dụng, bạn sẽ thấy **menu** của nhà hàng.
+   - Menu được sắp xếp theo danh mục giúp bạn dễ dàng tìm kiếm món ăn yêu thích.
+   - Nhấn vào một món ăn để xem chi tiết món ăn.
+
+### 2. **Xem chi tiết món ăn**
+   - Trong màn hình chi tiết món ăn, bạn sẽ nhìn thấy:
+     - Hình ảnh món ăn.
+     - Mô tả chi tiết về món ăn.
+     - Giá tiền.
+   - Nếu bạn muốn đặt món, nhấn vào nút **"Thêm vào giỏ hàng"**.
+
+### 3. **Thêm món ăn vào giỏ hàng**
+   - Sau khi nhấn **"Thêm vào giỏ hàng"**, món ăn sẽ được thêm vào giỏ hàng của bạn.
+   - Bạn có thể truy cập giỏ hàng để xem lại danh sách các món đã chọn
+   - Tại đây, bạn có thể:
+     - Thay đổi số lượng món ăn.
+     - Xóa món ăn không cần thiết.
+
+### 4. **Tiến hành thanh toán**
+   - Khi bạn đã hoàn tất việc chọn món, nhấn vào nút **"Thanh toán"** để chuyển đến màn hình thanh toán.
+   - Ứng dụng hỗ trợ nhiều phương thức thanh toán như:
+     - Thanh toán bằng tiền mặt.
+     - Thanh toán qua thẻ tín dụng.
+     - Thanh toán qua ngân hàng trực tuyến.
+   - Chọn phương thức thanh toán phù hợp và xác nhận đơn hàng.
+
+### 5. **Theo dõi đơn hàng**
+   - Sau khi đặt hàng, bạn có thể theo dõi quá trình giao hàng trực tiếp trên ứng dụng.
+   - Ứng dụng cung cấp bản đồ thời gian thực để xem vị trí của người giao hàng.
+   - Bạn cũng có thể nhắn tin hoặc gọi điện cho người giao hàng nếu cần thiết.
+
