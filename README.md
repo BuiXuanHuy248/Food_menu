@@ -24,7 +24,11 @@
 ## Đối tượng sử dụng
 Ứng dụng này phù hợp với tất cả những ai muốn đặt đồ ăn trên mạng mà không cần phải ra ngoài mua, chỉ cần 1 chiếc smartphone để truy cập vào ứng dụng là đủ, từ học sinh, sinh viên đến người đi làm, đủ mọi công việc, mọi tầng lớp trong xã hội mà không phân biệt bất kì đối tượng cụ thể nào.
 ## Màn hình chính
-![image alt](https://github.com/BuiXuanHuy248/Food_menu/blob/9a9573e8970e486b4b423776f0a9706cdd3d6d98/Menu.png) 
-![image alt](https://github.com/BuiXuanHuy248/Food_menu/blob/01d76eb0a352149dc8e06b9b64f748284d6c3f41/food_detail.png)
-![image alt](https://github.com/BuiXuanHuy248/Food_menu/blob/01d76eb0a352149dc8e06b9b64f748284d6c3f41/Cart%20screen.png)
-![image alt](https://github.com/BuiXuanHuy248/Food_menu/blob/01d76eb0a352149dc8e06b9b64f748284d6c3f41/Payment_method.png)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/BuiXuanHuy248/Food_menu/blob/9a9573e8970e486b4b423776f0a9706cdd3d6d98/Menu.png" alt="Menu" style="width: 200px; height: auto;">
+    <img src="https://github.com/BuiXuanHuy248/Food_menu/blob/01d76eb0a352149dc8e06b9b64f748284d6c3f41/food_detail.png" alt="Food Detail" style="width: 200px; height: auto;">
+    <img src="https://github.com/BuiXuanHuy248/Food_menu/blob/01d76eb0a352149dc8e06b9b64f748284d6c3f41/Cart%20screen.png" alt="Cart Screen" style="width: 200px; height: auto;">
+    <img src="https://github.com/BuiXuanHuy248/Food_menu/blob/01d76eb0a352149dc8e06b9b64f748284d6c3f41/Payment_method.png" alt="Payment Method" style="width: 200px; height: auto;">
+</div>
+
