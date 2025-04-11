@@ -1,50 +1,27 @@
-# Welcome to your Expo app 👋
+# Dự án: Ứng dụng đặt đồ ăn trực tuyến
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Tác giả: Bùi Xuân Huy, Nguyễn Minh Hoàng**
 
-## Get started
+## Mô tả dự án
+Ứng dụng quản lý đặt đồ ăn trực tuyến giúp người dùng xem menu món ăn, đặt món và theo dõi giao hàng một cách thuận lợi, dễ dàng nhất. Ứng dụng này cho phép người dùng:
+- Xem menu món ăn của nhà hàng
+- Thêm món ăn vào giỏ hàng
+- Thanh toán trực tuyến
+- Theo dõi quá trình giao hàng 
+## Mục tiêu của dự án
+- Cung cấp một ứng dụng đơn giản nhưng hoạt động nhanh nhẹn, mạnh mẽ cho người dùng trong việc đặt đồ ăn trực tuyến.
+- Giúp người dùng lựa chọn ra món ăn mà mình thích theo khẩu vị và sở thích cá nhân.
+- Tích hợp thanh toán trực tuyến qua nhiều phương thức giúp người dùng dễ dàng lựa chọn một trong các hình thức thanh toán khác nhau.
+- Theo dõi quá trình giao hàng từ lúc nhận đơn đến lúc hàng đến tay người đặt
+- Theo dõi quá trình giao hàng theo thời gian thực, trò chuyện với người giao hàng và hiển thị bản đồ để theo dõi.
+## Tính năng chính
+- **Xem thực đơn của nhà hàng:** lọc ra các loại đồ ăn cho người dùng dễ dàng chọn món ưa thích.
+- **Thêm vào giỏ hàng:** khi khách hàng muốn mua món ăn đó, dễ dàng thêm vào giỏ hàng.
+- **Thanh toán trực tuyến:** Tích hợp nhiều phương thức thanh toán từ tiền mặt đến thanh toán trực tuyến qua ngân hàng và thẻ tín dụng.
+- 
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+## Đối tượng sử dụng
+Ứng dụng này phù hợp với tất cả những ai muốn đặt đồ ăn trên mạng mà không cần phải ra ngoài mua, chỉ cần 1 chiếc smartphone để truy cập vào ứng dụng là đủ, từ học sinh, sinh viên đến người đi làm, đủ mọi công việc, mọi tầng lớp trong xã hội mà không phân biệt bất kì đối tượng cụ thể nào.
+## Màn hình chính
 
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
